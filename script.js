@@ -38,12 +38,10 @@ const menu = [
     ['Hot Dog XXL','9,50 €','Perrito caliente gigante con salchicha XXL, cebolla crujiente y salsas al gusto.'],
     ['Hot Dog Porco Loco','10,50 €','Perrito caliente especial con salchicha gigante, toppings especiales y salsas de la casa.']
   ]},
-  {id:'especialidades',title:'Especialidades y 
-    platos principales',items:[
+  {id:'especialidades',title:'Especialidades y platos principales',items:[
     ['Pollo al Horno','14,00 € / 15,00 €','Para llevar / consumo en restaurante. Pollo asado al horno, acompañado de patatas panaderas.']
   ]},
-  {id:'bebidas',title:'Bebidas, refrescos, 
-    vinos y licores',items:[
+  {id:'bebidas',title:'Bebidas, refrescos, vinos y licores',items:[
     ['Agua de Botella','1,70 €','Agua mineral natural.'],['Casera','2,00 €','Gaseosa casera.'],['Coca-Cola','3,00 €'],['Coca-Cola Zero','3,00 €'],
     ['Aquarius Limón','3,00 €'],['Aquarius Naranja','3,00 €'],['Nestea','3,00 €'],['Zumo de Melocotón','3,00 €'],['Zumo de Piña','3,00 €'],
     ['Agua con Gas','3,00€'],
